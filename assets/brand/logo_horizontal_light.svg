@@ -1,0 +1,19 @@
+<svg viewBox="0 0 320 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Isotipo Escala 0.6 en Posición (10, 10) -->
+  <g transform="translate(10, 10) scale(0.6)">
+    <!-- Escudo Geométrico -->
+    <path d="M50 8L85 18V55C85 75 50 92 50 92C50 92 15 75 15 55V18L50 8Z" stroke="#111111" stroke-width="4.5" stroke-linejoin="round"/>
+    <!-- Red Hexagonal -->
+    <path d="M50 22L75 36.5V65.5L50 80L25 65.5V36.5L50 22Z" stroke="#0A5CFF" stroke-width="2" stroke-dasharray="3 2" stroke-linejoin="round"/>
+    <!-- Mira de Precisión -->
+    <circle cx="50" cy="51" r="14" stroke="#0A5CFF" stroke-width="2"/>
+    <circle cx="50" cy="51" r="6" fill="#0A5CFF"/>
+    <line x1="50" y1="31" x2="50" y2="43" stroke="#0A5CFF" stroke-width="2" stroke-linecap="round"/>
+    <line x1="50" y1="59" x2="50" y2="71" stroke="#0A5CFF" stroke-width="2" stroke-linecap="round"/>
+    <line x1="30" y1="51" x2="42" y2="51" stroke="#0A5CFF" stroke-width="2" stroke-linecap="round"/>
+    <line x1="58" y1="51" x2="70" y2="51" stroke="#0A5CFF" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Texto de Identidad -->
+  <text x="80" y="38" font-family="'Outfit', 'Inter', sans-serif" font-size="28" font-weight="800" fill="#111111" letter-spacing="1">APEX</text>
+  <text x="80" y="58" font-family="'Outfit', 'Inter', sans-serif" font-size="11" font-weight="600" fill="#0A5CFF" letter-spacing="3.5">CONTROL INTEGRAL</text>
+</svg>
